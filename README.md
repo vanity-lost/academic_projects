@@ -25,10 +25,13 @@ Currently, this repo contains several projects:
 
 - **CSDS 234 - _Structured and Unstructured Data_**
 
-  - Individual Project: Amazon Co-purchasing analysis
+  - Individual Project: Amazon Co-purchasing Analysis
 
 - **DESN 210 - _Introduction to Programming for Business Applications_**
 
   - Research Project:
+
     1. Exploration of relationships among U.S. stock, COVID-19, and crypto market
     2. Cryptocurrency Prices Forecasting using explored relationships
+
+  - One of Assgnments: Style Transfer
