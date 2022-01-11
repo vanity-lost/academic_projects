@@ -1,0 +1,1705 @@
+fileFormatVersion: 2
+guid: 05554c667b0e4534cb6164fc1d6bc517
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2122107185238573207
+    second: bed_0
+  - first:
+      213: 6539804971861213079
+    second: bed_1
+  - first:
+      213: 9015965631283994615
+    second: bed_2
+  - first:
+      213: -898222207937306033
+    second: bed_3
+  - first:
+      213: -5631678316972527046
+    second: bed_4
+  - first:
+      213: -9073506038493735185
+    second: bed_5
+  - first:
+      213: -2552104074255963076
+    second: bed_6
+  - first:
+      213: 8457444837300033649
+    second: bed_7
+  - first:
+      213: 7277326635388275410
+    second: bed_8
+  - first:
+      213: 4645686340769514251
+    second: bed_9
+  - first:
+      213: 2706325570817102276
+    second: bed_10
+  - first:
+      213: -6608570244250362319
+    second: bed_11
+  - first:
+      213: 1731744021737530814
+    second: bed_12
+  - first:
+      213: 1988207653490689628
+    second: bed_13
+  - first:
+      213: -7834470485922003402
+    second: bed_14
+  - first:
+      213: 2871643275226859344
+    second: bed_15
+  - first:
+      213: 6459722717002177648
+    second: bed_16
+  - first:
+      213: -3900939112476208693
+    second: bed_17
+  - first:
+      213: 7025472183451668001
+    second: bed_18
+  - first:
+      213: 6983048155871246300
+    second: bed_19
+  - first:
+      213: -7204422486846843947
+    second: bed_20
+  - first:
+      213: 9062090628838663094
+    second: bed_21
+  - first:
+      213: -523232665959965302
+    second: bed_22
+  - first:
+      213: -6663730958145971369
+    second: bed_23
+  - first:
+      213: 7458164431910460302
+    second: bed_24
+  - first:
+      213: -4717446888959111436
+    second: bed_25
+  - first:
+      213: 6323683954210881140
+    second: bed_26
+  - first:
+      213: -3560409377480294885
+    second: bed_27
+  - first:
+      213: -8025198535952577972
+    second: bed_28
+  - first:
+      213: -7744042083066107779
+    second: bed_29
+  - first:
+      213: -6331784375570009711
+    second: bed_30
+  - first:
+      213: -7218635221132708172
+    second: bed_31
+  - first:
+      213: -2972126050545110249
+    second: bed_32
+  - first:
+      213: 4854838756619008659
+    second: bed_33
+  - first:
+      213: 5987725353684461069
+    second: bed_34
+  - first:
+      213: 1761019511608233111
+    second: bed_35
+  - first:
+      213: 9019538227611759535
+    second: bed_36
+  - first:
+      213: 4229552830674878662
+    second: bed_37
+  - first:
+      213: -8967566057201966520
+    second: bed_38
+  - first:
+      213: 1212719215870879690
+    second: bed_39
+  - first:
+      213: -7573624471884660498
+    second: bed_40
+  - first:
+      213: 2567810931708238407
+    second: bed_41
+  - first:
+      213: 3142350016055045064
+    second: bed_42
+  - first:
+      213: -9048478737942039488
+    second: bed_43
+  - first:
+      213: -4587694022889741564
+    second: bed_44
+  - first:
+      213: 2179849409728428246
+    second: bed_45
+  - first:
+      213: 8106201649897075506
+    second: bed_46
+  - first:
+      213: -1497613690625496530
+    second: bed_47
+  - first:
+      213: 7968053151376910813
+    second: bed_48
+  - first:
+      213: -7899605801112166574
+    second: bed_49
+  - first:
+      213: 449901930961157999
+    second: bed_50
+  - first:
+      213: -225134685542827120
+    second: bed_51
+  - first:
+      213: 1867920662719655433
+    second: bed_52
+  - first:
+      213: -3871695133537463740
+    second: bed_53
+  - first:
+      213: 2435326600151989944
+    second: bed_54
+  - first:
+      213: 4164205479569261514
+    second: bed_55
+  - first:
+      213: 5910397793022452068
+    second: bed_56
+  - first:
+      213: -8472903664564471361
+    second: bed_57
+  - first:
+      213: -6571777624642918765
+    second: bed_58
+  - first:
+      213: 9056174387098112952
+    second: bed_59
+  - first:
+      213: -6297083891869415463
+    second: bed_60
+  - first:
+      213: 2931765390788944194
+    second: bed_61
+  - first:
+      213: -8265780772350291812
+    second: bed_62
+  - first:
+      213: 7908334081497904845
+    second: bed_63
+  - first:
+      213: -5916088326929414156
+    second: bed_64
+  - first:
+      213: 3879449106619847173
+    second: bed_65
+  - first:
+      213: -9085767810208734321
+    second: bed_66
+  - first:
+      213: 2143730114625680037
+    second: bed_67
+  - first:
+      213: 6955603657939056060
+    second: bed_68
+  - first:
+      213: 5076186624405378605
+    second: bed_69
+  - first:
+      213: 3987320790783700443
+    second: bed_70
+  - first:
+      213: -3257830514414472135
+    second: bed_71
+  - first:
+      213: -2407802438059503209
+    second: bed_72
+  - first:
+      213: 5530354060816811009
+    second: bed_73
+  - first:
+      213: -8781313189587956017
+    second: bed_74
+  - first:
+      213: -5220935330205644592
+    second: bed_75
+  - first:
+      213: 8751659650309678445
+    second: bed_76
+  - first:
+      213: -3332077117063762573
+    second: bed_77
+  - first:
+      213: -6224364839580403223
+    second: bed_78
+  - first:
+      213: -2266758652513972161
+    second: bed_79
+  - first:
+      213: 4581129807702634279
+    second: bed_80
+  - first:
+      213: 4742540374232759680
+    second: bed_81
+  - first:
+      213: -754898667329913499
+    second: bed_82
+  - first:
+      213: -6238795987673176224
+    second: bed_83
+  - first:
+      213: -2680561557072162154
+    second: bed_84
+  - first:
+      213: 8169360710356205845
+    second: bed_85
+  - first:
+      213: -9201560681744016418
+    second: bed_86
+  - first:
+      213: -82898601194853407
+    second: bed_87
+  - first:
+      213: -7474824413233416325
+    second: bed_88
+  - first:
+      213: 3463120601874470600
+    second: bed_89
+  - first:
+      213: -3721509290254843466
+    second: bed_90
+  - first:
+      213: -162245499669199449
+    second: bed_91
+  - first:
+      213: 7369093525230750583
+    second: bed_92
+  - first:
+      213: 4245489030743364617
+    second: bed_93
+  - first:
+      213: 8302515602336560045
+    second: bed_94
+  - first:
+      213: 3576474859137208684
+    second: bed_95
+  - first:
+      213: -5296770251976598510
+    second: bed_96
+  - first:
+      213: -8524092307991105710
+    second: bed_97
+  - first:
+      213: 6702914582737523682
+    second: bed_98
+  - first:
+      213: -1956511458837671279
+    second: bed_99
+  - first:
+      213: -3904278478969152205
+    second: bed_100
+  - first:
+      213: 5748661578284553785
+    second: bed_101
+  - first:
+      213: 1735657210447894957
+    second: bed_102
+  - first:
+      213: -8146753094529616562
+    second: bed_103
+  - first:
+      213: 5748247431859456280
+    second: bed_104
+  - first:
+      213: 2679889547172518575
+    second: bed_105
+  - first:
+      213: 2896954320532322339
+    second: bed_106
+  - first:
+      213: 2949179476033761060
+    second: bed_107
+  - first:
+      213: 1387602034269471775
+    second: bed_108
+  - first:
+      213: -4980787149517387883
+    second: bed_109
+  - first:
+      213: 2081154995089838335
+    second: bed_110
+  - first:
+      213: -9186189599212354939
+    second: bed_111
+  - first:
+      213: 2853372482782706681
+    second: bed_112
+  - first:
+      213: -9094201039196224891
+    second: bed_113
+  - first:
+      213: -9029617461378217971
+    second: bed_114
+  - first:
+      213: 8028497422807404541
+    second: bed_115
+  - first:
+      213: 6085943981409151821
+    second: bed_116
+  - first:
+      213: -6654396104124475565
+    second: bed_117
+  - first:
+      213: -2473802918910849443
+    second: bed_118
+  - first:
+      213: 7035886021633910911
+    second: bed_119
+  - first:
+      213: -9114754195294305591
+    second: bed_120
+  - first:
+      213: 2679918878233447948
+    second: bed_121
+  - first:
+      213: -1910676504245475849
+    second: bed_122
+  - first:
+      213: -5544641106586150056
+    second: bed_123
+  - first:
+      213: 6408190795256693056
+    second: bed_124
+  - first:
+      213: 7971307191555272376
+    second: bed_125
+  - first:
+      213: 4425725626481435023
+    second: bed_126
+  - first:
+      213: -8431051703100104216
+    second: bed_127
+  - first:
+      213: -450066157120702847
+    second: bed_128
+  - first:
+      213: 3220555477221862776
+    second: bed_129
+  - first:
+      213: -5885239954164456188
+    second: bed_130
+  - first:
+      213: -3152153595193573929
+    second: bed_131
+  - first:
+      213: 4236415288479321870
+    second: bed_132
+  - first:
+      213: -3330228620335520709
+    second: bed_133
+  - first:
+      213: 3698110381612761103
+    second: bed_134
+  - first:
+      213: 1582729124691214484
+    second: bed_135
+  - first:
+      213: 5433880808305038143
+    second: bed_136
+  - first:
+      213: 4801946289657113365
+    second: bed_137
+  - first:
+      213: -3558490178753994331
+    second: bed_138
+  - first:
+      213: -2942327423866519866
+    second: bed_139
+  - first:
+      213: -74377239865092868
+    second: bed_140
+  - first:
+      213: 8913327777802516826
+    second: bed_141
+  - first:
+      213: -5247944944463047500
+    second: bed_142
+  - first:
+      213: -4838686786151058171
+    second: bed_143
+  - first:
+      213: -18072574417727161
+    second: bed_144
+  - first:
+      213: -3857934208420627348
+    second: bed_145
+  - first:
+      213: -9002409818118019593
+    second: bed_146
+  - first:
+      213: 8326887781122230762
+    second: bed_147
+  - first:
+      213: 976958104299350542
+    second: bed_148
+  - first:
+      213: 6270976441178328121
+    second: bed_149
+  - first:
+      213: 2856477880117425243
+    second: bed_150
+  - first:
+      213: 7319244887190333801
+    second: bed_151
+  - first:
+      213: -3556196374264614051
+    second: bed_152
+  - first:
+      213: 1614680426707199547
+    second: bed_153
+  - first:
+      213: 2078343738785758426
+    second: bed_154
+  - first:
+      213: 1786272508018335652
+    second: bed_155
+  - first:
+      213: -7657287222381184474
+    second: bed_156
+  - first:
+      213: -6673971815062778623
+    second: bed_157
+  - first:
+      213: 8637100095551127614
+    second: bed_158
+  - first:
+      213: 2415415747792948349
+    second: bed_159
+  - first:
+      213: -444828945094847027
+    second: bed_160
+  - first:
+      213: -7349621044119789028
+    second: bed_161
+  - first:
+      213: 4865321427496313459
+    second: bed_162
+  - first:
+      213: 4478078564025014145
+    second: bed_163
+  - first:
+      213: 1661636539865524208
+    second: bed_164
+  - first:
+      213: -7643361391884193780
+    second: bed_165
+  - first:
+      213: 5566550411116882546
+    second: bed_166
+  - first:
+      213: -2798017268679822449
+    second: bed_167
+  - first:
+      213: 7779390097488036590
+    second: bed_168
+  - first:
+      213: -7993973711884571800
+    second: bed_169
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bed_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 415
+        width: 45
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b05ae747114a864383c2500d6e79ce1
+      internalID: 2122107185238573207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 417
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daaaaa4669225f74ebe6dc2ecace5afc
+      internalID: 6539804971861213079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 462
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11d646c0059de34dbac54e786a808f4
+      internalID: 9015965631283994615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 460
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac7e2f1b9322484cb288064641fcd5f
+      internalID: -898222207937306033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_4
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 460
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25c0774d8f6b6a40a6cf748f376021c
+      internalID: -5631678316972527046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_5
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 458
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745a3ead1a2e33342a040184207b09d1
+      internalID: -9073506038493735185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_6
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 439
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a09cf476749a5438f31e6238607539
+      internalID: -2552104074255963076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_7
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 411
+        width: 45
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ac55914796ed14381f5b03fdd71b32
+      internalID: 8457444837300033649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_8
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 428
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edc9a0aa03e02a418cf1a8b4a968ab4
+      internalID: 7277326635388275410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_9
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 425
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b1b94e71362f54e84d222f6c9664d5
+      internalID: 4645686340769514251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_10
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 426
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a8508eb7fe9cf42b9970ad627df396
+      internalID: 2706325570817102276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_11
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 423
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ee4781bfda96842ac2f08a4fa09362
+      internalID: -6608570244250362319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 418
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632f674837764834196423955e98ccc4
+      internalID: 1731744021737530814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 324
+        width: 45
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947d0111fa3b5b344aa7dd9670f06f91
+      internalID: 1988207653490689628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_14
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 323
+        width: 45
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172a274f19f68a441923679990a50743
+      internalID: -7834470485922003402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_15
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 323
+        width: 45
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284e1f297e4cee441ab57a64b88eb6b4
+      internalID: 2871643275226859344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_16
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 327
+        width: 45
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ca555bec9813c48aaee6d9a54d62d8
+      internalID: 6459722717002177648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_17
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 368
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6ea0216bb0cad49aa049fc5176147f
+      internalID: -3900939112476208693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_18
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 368
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deaccfdf2de66b14a927b2f8e1ed365e
+      internalID: 7025472183451668001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_19
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 368
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8ea9d4c7582fc43b99fbad403c0ddc
+      internalID: 6983048155871246300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_20
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 236
+        width: 45
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85163f63915020244a190bb91a54f324
+      internalID: -7204422486846843947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_21
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 236
+        width: 45
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb470b1f0d4f8f249b619c26afa13f9b
+      internalID: 9062090628838663094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 236
+        width: 45
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07051c7bba9c8af45a057b00945f5f95
+      internalID: -523232665959965302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_23
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 236
+        width: 45
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea333675f5faae645a85e209be019344
+      internalID: -6663730958145971369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_24
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 290
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2161fa2720f57a446a675200a6a52597
+      internalID: 7458164431910460302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_25
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 301
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36aa13cad1af724280f76f7ea9dcf8a
+      internalID: -4717446888959111436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_26
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 297
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3aedbfa5793e1345b91763ac0207c3e
+      internalID: 6323683954210881140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_27
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 151
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5a538096e7bd240ac474f0aeef7c92
+      internalID: -3560409377480294885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_28
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 150
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d594d9b28965602499f053a7fb5faa88
+      internalID: -8025198535952577972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_29
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 148
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad0fb69bfd206f4ea7902561d472fd3
+      internalID: -7744042083066107779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_30
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 208
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d9237089a2ca24482478e1676d6baf
+      internalID: -6331784375570009711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_31
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 149
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289bc87bbe6289b45abb68e7bceb1834
+      internalID: -7218635221132708172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_32
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 195
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fa954a78f507546a1fd43b9ce72320
+      internalID: -2972126050545110249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_33
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 168
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872ce68c224a3c74aa9090572302f4a1
+      internalID: 4854838756619008659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_34
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 155
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a03d7f3ba688a45906218f1b1d8c1a
+      internalID: 5987725353684461069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_35
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 153
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b96f2ef23d2d58468fca0805790135a
+      internalID: 1761019511608233111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_36
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 57
+        width: 65
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f7142947460a14bb3f8dc3e1f87660
+      internalID: 9019538227611759535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_37
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 27
+        width: 35
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8b87aeece05c149861531c78c3f460
+      internalID: 4229552830674878662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_38
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 36
+        width: 45
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b996f927ef7cf459326544ca4eae53
+      internalID: -8967566057201966520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_39
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 101
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88370e8a35b83af41b4c31b78f1a2ee1
+      internalID: 1212719215870879690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_40
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 101
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bfe55966ef77e438f2bae1d2d05fd1
+      internalID: -7573624471884660498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_41
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 85
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159f134fa03ade046a014e9adfc32a77
+      internalID: 2567810931708238407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_42
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 87
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048801aa6f672ae42ad2208f1b62c125
+      internalID: 3142350016055045064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_43
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 87
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be342cd1a29127848bae36368a93b907
+      internalID: -9048478737942039488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_44
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 87
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb504e550973ac34c9d727c9e0edeb53
+      internalID: -4587694022889741564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_45
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 47
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bddb734e29d28e4f85011b75042a81e
+      internalID: 2179849409728428246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_46
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 74
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7384562336e79ce43b3c76a84a441934
+      internalID: 8106201649897075506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_47
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 74
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e649ffb7ec18d544a3b8d25d17cbac9
+      internalID: -1497613690625496530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_48
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 59
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a4554cb2397f9438ebe9d827bbcec4
+      internalID: 7968053151376910813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_49
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 46
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09167368ac06cc4d8f1db811e8ff033
+      internalID: -7899605801112166574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_50
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 46
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b10f1447c5d9842b15896a7fcee1a4
+      internalID: 449901930961157999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_51
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 14
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6486cbcc1bbd23b48b007a62381baeac
+      internalID: -225134685542827120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
