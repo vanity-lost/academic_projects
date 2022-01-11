@@ -28,7 +28,7 @@ Currently, this repo contains several projects:
 
 - **CSDS 390 - _Advanced Game Development Project_**
 
-  - Group Project: Bill Splitting System
+  - Group Project: Eurydice
 
 - **CSDS 393 - _Software Engineering_**
 
