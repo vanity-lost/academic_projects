@@ -12,6 +12,11 @@ Currently, this repo contains several projects:
 
   - Individual Project: Amazon Co-purchasing Analysis
 
+- **CSDS 290 - _Introduction to Computer Game Design and Implementation_**
+
+  - Group Text Advanture Project: Phantom Wanderer
+  - Group 2D Level Project: YU&MI
+
 - **CSDS 325 - _Computer Network I_**
 
   - Individual Project-1: Conference Client and Server
@@ -20,6 +25,10 @@ Currently, this repo contains several projects:
 - **CSDS 341 - _Intro to Database System_**
 
   - Group Project: Snack Tracker
+
+- **CSDS 390 - _Advanced Game Development Project_**
+
+  - Group Project: Bill Splitting System
 
 - **CSDS 393 - _Software Engineering_**
 
