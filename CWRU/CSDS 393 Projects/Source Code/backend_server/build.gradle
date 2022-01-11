@@ -1,0 +1,50 @@
+plugins {
+    id 'org.springframework.boot' version '2.3.4.RELEASE'
+    id 'io.spring.dependency-management' version '1.0.10.RELEASE'
+    id 'java'
+    id 'jacoco'
+}
+
+group = 'edu.cwru.csds393'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = '1.8'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+    implementation 'org.springframework.boot:spring-boot-starter-jdbc'
+    implementation 'org.springframework.boot:spring-boot-starter-validation'
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    implementation group: 'org.springframework.security', name: 'spring-security-core', version: '5.4.1'
+    implementation group: 'com.google.guava', name: 'guava', version: '30.0-jre'
+    implementation group: 'org.springframework.boot', name: 'spring-boot-starter-mail'
+    implementation group: 'com.fasterxml.jackson.datatype', name: 'jackson-datatype-hibernate5'
+    runtimeOnly 'org.postgresql:postgresql'
+    testRuntimeOnly('com.h2database:h2')
+    testImplementation group: 'org.mockito', name: 'mockito-core', version: '3.5.15'
+    testImplementation('org.springframework.boot:spring-boot-starter-test')
+}
+
+bootBuildImage {
+    imageName = "codetector/billsplit-system"
+}
+
+test {
+    useJUnitPlatform()
+    finalizedBy jacocoTestReport // report is always generated after tests run
+}
+
+jacocoTestReport {
+    dependsOn test // tests are required to run before generating the report
+    afterEvaluate {
+        classDirectories.setFrom(files(classDirectories.files.collect {
+            fileTree(dir: it, exclude: ['**/model/**', '**/exception/**', '**/repository/**', '**/entity/**'])
+        }))
+    }
+}
+
+
+

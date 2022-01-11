@@ -1,5 +1,0 @@
-In this folder, I included most of the materials I used or produced during the research.
-In the 'Paper Material' folder, there are 17 graphs that I use in the paper.
-In the 'Supporting Material' folder, I put the stop word list that I use in my research.
-In the 'Codes' folder, I put all three data parsers and three algorithm codes for each dataset. There will not a large difference between these algorithm codes. Each algorithm code file has several historical methods I used in the research. Algorithm 1 described in my paper is v3 and Algorithm 3 is v5. 
-In the 'Research Notebook' folder, there are 12 different notebooks. I cannot remember which one for what. In these notebooks, there are plenty of records of historical tests and results that were discarded during my research. Besides, I use several notebooks parallelly to produce the experiment data faster. Thus, one experiment data will be separately located in multiple folders. 

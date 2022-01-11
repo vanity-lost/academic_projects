@@ -1,0 +1,30 @@
+server:
+  port: 9080
+spring:
+  application:
+    name: billsplit-backend
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://${dbaddr:localhost}:${dbport:5432}/${dbname:bill_split}
+    username: ${dbuser:postgres}
+    password: ${dbpass}
+  jpa:
+    hibernate:
+      ddl-auto: update # When you launch the application for the first time - switch "none" at "create"
+    show-sql: true
+    database: postgresql
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+    open-in-view: false
+    generate-ddl: true
+  mail:
+    from: "Bill Splitting System<no-reply@codetector.org>"
+    host: mail.codetector.org
+    protocol: smtp
+    port: 587
+    username: ${smtpusr:no-reply@codetector.org}
+    password: ${smtppass:}
+    properties:
+      mail.debug: true
+      mail.smtp.auth: true
+      mail.smtp.starttls.enable: true
+      mail.transport.protocol: smtp

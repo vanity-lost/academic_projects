@@ -1,0 +1,17 @@
+version: "3.8"
+services:
+  db:
+    image: postgres:13.0
+    environment:
+      POSTGRES_PASSWORD: o8iergjgkljnvljkjil
+      POSTGRES_DB: bill_split
+    volumes:
+      - ./db:/var/lib/postgresql/data
+  web:
+    image: codetector/billsplit-system:latest
+    environment:
+      JAVA_TOOL_OPTIONS: "-Ddbaddr=db -Ddbpass=o8iergjgkljnvljkjil -Dsmtppass=${SMTPPASS}"
+    depends_on:
+      - db
+    ports:
+      - "9090:9080"

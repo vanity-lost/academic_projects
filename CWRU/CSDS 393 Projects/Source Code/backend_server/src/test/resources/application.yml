@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: billsplit-backend
+  jpa:
+    database: HSQL
+    database-platform: org.hibernate.dialect.H2Dialect
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.H2Dialect
+  mail:
+    from: "test@test.test"

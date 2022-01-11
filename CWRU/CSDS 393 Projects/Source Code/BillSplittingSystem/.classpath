@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="exp_src"/>
+	<classpathentry kind="src" path="schema"/>
+	<classpathentry kind="src" path="deps"/>
+	<classpathentry kind="src" path="rest"/>
+	<classpathentry kind="src" path="finance"/>
+	<classpathentry kind="src" path="gui"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="deps/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="deps/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="deps/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="deps/groovy-3.0.3.jar"/>
+	<classpathentry kind="lib" path="deps/groovy-json-3.0.3.jar"/>
+	<classpathentry kind="lib" path="deps/groovy-xml-3.0.3.jar"/>
+	<classpathentry kind="lib" path="deps/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="deps/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="deps/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="deps/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="deps/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry kind="lib" path="deps/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="deps/jaxb-impl-2.3.3.jar"/>
+	<classpathentry kind="lib" path="deps/json-path-4.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="deps/json-path-4.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="deps/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="deps/rest-assured-4.3.1.jar"/>
+	<classpathentry kind="lib" path="deps/rest-assured-4.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="deps/rest-assured-4.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="deps/rest-assured-common-4.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="deps/rest-assured-common-4.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="deps/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="deps/xml-path-4.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="deps/xml-path-4.3.1-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="deps/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="deps/jfreechart-1.5.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
